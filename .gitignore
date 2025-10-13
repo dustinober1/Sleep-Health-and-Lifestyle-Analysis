@@ -1,0 +1,71 @@
+# macOS
+.DS_Store
+
+# Python cache / virtualenvs
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# IPython / Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyTest
+.pytest_cache/
+
+# IDEs
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Artifacts and outputs (large/generated files)
+/artifacts/
+/outputs/
+
+# Model binaries and serialized data
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.ckpt
+*.onnx
+
+# Databases / local data
+*.sqlite
+*.db
+
+# Large compressed datasets (optional - uncomment if you keep raw CSVs in repo)
+# *.csv
+# *.zip
+# *.tar.gz
+
+# Environment and secrets
+.env
+.env.*
+secrets.yml
+credentials.json
+
+# Coverage / reports
+.coverage
+coverage.xml
+htmlcov/
+
+# Misc
+Thumbs.db
+
+# Note: If you need to track large dataset files (CSV, parquet, etc.),
+# consider using Git LFS (https://git-lfs.github.com/) instead of committing
+# them directly to the repository. Uncomment specific data file patterns above
+# only if you want git to ignore them here.
