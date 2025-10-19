@@ -1,0 +1,24 @@
+Daily Steps Analysis
+
+Key Statistics
+Average Daily Steps: 6,816.84 steps
+Median Daily Steps: 6,800 steps
+Standard Deviation: 1,942.67 steps
+Range: 2,900 - 10,000 steps
+Distribution: Slightly right-skewed
+
+Data Distribution
+Most participants (75th percentile): Up to 8,000 steps/day
+Lowest 25% of participants: As low as 2,900 steps/day
+High activity individuals: Up to 10,000 steps/day
+Majority fall within 4,000-8,000 steps range
+
+Relationship to Health Indicators
+Positive correlation with sleep quality and physical activity level
+Inversely related to stress levels and BMI category
+Participants with higher daily steps tend to have better sleep metrics and lower heart rates
+
+Implications
+Most participants fall short of the recommended 10,000 steps/day for optimal health
+Higher daily step counts correlate with improved sleep outcomes and overall health metrics
+Daily steps serve as an important indicator of lifestyle and health quality

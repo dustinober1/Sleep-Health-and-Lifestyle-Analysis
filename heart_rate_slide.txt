@@ -1,0 +1,32 @@
+Distribution of Heart Rates
+
+Key Statistics
+Average Heart Rate: 70.17 bpm
+Median Heart Rate: 70.0 bpm
+Standard Deviation: 4.14 bpm
+Range: 65.00 - 86.00 bpm
+Distribution: Normal distribution with slight positive skew
+
+Data Distribution
+Most participants (75th percentile): Up to 73.0 bpm
+Lowest 25% of participants: As low as 67.0 bpm
+High heart rate individuals: Up to 86.0 bpm
+Majority fall within 66-75 bpm range
+
+Outliers Identification
+Potential outliers: 15 individuals (4% of dataset)
+Outlier range: Values below 62.0 bpm or above 78.0 bpm
+Highest outlier: 86.0 bpm
+Lowest outlier: 65.0 bpm (not considered a true outlier)
+
+Relationship to Health Indicators
+Positive correlation with stress levels
+Slight correlation with BMI category (higher BMI, higher heart rate)
+Participants with sleep disorders show elevated average heart rates
+Heart rate varies by sleep disorder type: None (70.0 bpm), Insomnia (70.4 bpm), Sleep Apnea (73.3 bpm)
+
+Implications
+Most participants have healthy resting heart rates within normal range (60-100 bpm)
+Sleep Apnea patients show significantly higher average heart rates
+Elevated heart rates correlate with stress and poor sleep quality
+Heart rate serves as an important vital sign indicator for sleep health

@@ -1,0 +1,23 @@
+## Physical Activity Level Analysis
+
+### Key Statistics
+- **Average Physical Activity Level**: 59.17 minutes/day
+- **Median Physical Activity Level**: 60 minutes/day
+- **Standard Deviation**: 17.84 minutes/day
+- **Range**: 10 - 90 minutes/day
+- **Distribution**: Approximately normal with slight skewness
+
+### Data Distribution
+- Most participants (75th percentile): Up to 70 minutes/day of physical activity
+- Lowest 25% of participants: As low as 10 minutes/day
+- High activity individuals: Up to 90 minutes/day
+
+### Relationship to Health Indicators
+- Positive correlation with sleep quality and daily steps
+- Inversely related to stress levels
+- Participants with higher activity levels tend to have better sleep metrics
+
+### Implications
+- The majority of participants meet or exceed the minimum recommended physical activity levels (30 minutes/day)
+- Higher physical activity levels correlate with improved sleep outcomes
+- Physical activity represents a key lifestyle factor for sleep health
